@@ -1,0 +1,19 @@
+C:\Users\kel0004\Documents\Auburn HS\VCE year 12\Software Development\Visual Basic Projects\The Story Crafters Notebook\bin\Debug\net5.0-windows\The Story Crafters Notebook.exe
+C:\Users\kel0004\Documents\Auburn HS\VCE year 12\Software Development\Visual Basic Projects\The Story Crafters Notebook\bin\Debug\net5.0-windows\The Story Crafters Notebook.deps.json
+C:\Users\kel0004\Documents\Auburn HS\VCE year 12\Software Development\Visual Basic Projects\The Story Crafters Notebook\bin\Debug\net5.0-windows\The Story Crafters Notebook.runtimeconfig.json
+C:\Users\kel0004\Documents\Auburn HS\VCE year 12\Software Development\Visual Basic Projects\The Story Crafters Notebook\bin\Debug\net5.0-windows\The Story Crafters Notebook.runtimeconfig.dev.json
+C:\Users\kel0004\Documents\Auburn HS\VCE year 12\Software Development\Visual Basic Projects\The Story Crafters Notebook\bin\Debug\net5.0-windows\The Story Crafters Notebook.dll
+C:\Users\kel0004\Documents\Auburn HS\VCE year 12\Software Development\Visual Basic Projects\The Story Crafters Notebook\bin\Debug\net5.0-windows\ref\The Story Crafters Notebook.dll
+C:\Users\kel0004\Documents\Auburn HS\VCE year 12\Software Development\Visual Basic Projects\The Story Crafters Notebook\bin\Debug\net5.0-windows\The Story Crafters Notebook.pdb
+C:\Users\kel0004\Documents\Auburn HS\VCE year 12\Software Development\Visual Basic Projects\The Story Crafters Notebook\obj\Debug\net5.0-windows\The Story Crafters Notebook.vbprojAssemblyReference.cache
+C:\Users\kel0004\Documents\Auburn HS\VCE year 12\Software Development\Visual Basic Projects\The Story Crafters Notebook\obj\Debug\net5.0-windows\The_Story_Crafters_Notebook.Form1.resources
+C:\Users\kel0004\Documents\Auburn HS\VCE year 12\Software Development\Visual Basic Projects\The Story Crafters Notebook\obj\Debug\net5.0-windows\The Story Crafters Notebook.vbproj.GenerateResource.cache
+C:\Users\kel0004\Documents\Auburn HS\VCE year 12\Software Development\Visual Basic Projects\The Story Crafters Notebook\obj\Debug\net5.0-windows\The Story Crafters Notebook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kel0004\Documents\Auburn HS\VCE year 12\Software Development\Visual Basic Projects\The Story Crafters Notebook\obj\Debug\net5.0-windows\The Story Crafters Notebook.AssemblyInfoInputs.cache
+C:\Users\kel0004\Documents\Auburn HS\VCE year 12\Software Development\Visual Basic Projects\The Story Crafters Notebook\obj\Debug\net5.0-windows\The Story Crafters Notebook.AssemblyInfo.vb
+C:\Users\kel0004\Documents\Auburn HS\VCE year 12\Software Development\Visual Basic Projects\The Story Crafters Notebook\obj\Debug\net5.0-windows\The Story Crafters Notebook.vbproj.CoreCompileInputs.cache
+C:\Users\kel0004\Documents\Auburn HS\VCE year 12\Software Development\Visual Basic Projects\The Story Crafters Notebook\obj\Debug\net5.0-windows\The Story Crafters Notebook.dll
+C:\Users\kel0004\Documents\Auburn HS\VCE year 12\Software Development\Visual Basic Projects\The Story Crafters Notebook\obj\Debug\net5.0-windows\ref\The Story Crafters Notebook.dll
+C:\Users\kel0004\Documents\Auburn HS\VCE year 12\Software Development\Visual Basic Projects\The Story Crafters Notebook\obj\Debug\net5.0-windows\The Story Crafters Notebook.pdb
+C:\Users\kel0004\Documents\Auburn HS\VCE year 12\Software Development\Visual Basic Projects\The Story Crafters Notebook\obj\Debug\net5.0-windows\The Story Crafters Notebook.genruntimeconfig.cache
+C:\Users\kel0004\Documents\Auburn HS\VCE year 12\Software Development\Visual Basic Projects\The Story Crafters Notebook\obj\Debug\net5.0-windows\The_Story_Crafters_Notebook.Resources.resources
